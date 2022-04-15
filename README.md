@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @the-nostromo-1
-- 👀 I’m interested in ...Coding
-- 🌱 I’m currently learning ...C Programming
+- 👀 I’m interested in ...Programming
+- 🌱 I’m currently learning ...C/C++ Programming
 - 💞️ I’m looking to collaborate on ...Any help please
 - 📫 How to reach me ...tinman11537@gmail.com
 
